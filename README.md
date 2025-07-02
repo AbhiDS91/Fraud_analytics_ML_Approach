@@ -18,10 +18,10 @@ Data is everywhere, and making sense of it is crucial. This portfolio demonstrat
 
 ## My Projects
 
-### Project 1: [Name of Your First Project]
+### Project 1: [DeepFake Detection]
 * [Brief, compelling description of Project 1, including a key achievement or technique.]
 * [Add another key achievement or technique if relevant.]
-* **[View Project →](./Project_1_Folder)**
+* **[View Project →](./deepfake_detection)**
 
 ### Project 2: [Name of Your Second Project]
 * [Brief, compelling description of Project 2, including a key achievement or technique.]
