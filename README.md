@@ -19,11 +19,11 @@ Data is everywhere, and making sense of it is crucial. This portfolio demonstrat
 ## My Projects
 
 ### Project 1: DeepFake Detection
-* Worked on two distinct machine learning strategies for detecting deepfakes (images)
+* Worked on two distinct machine learning strategies (CNNs) for detecting deepfakes (images)
 * Precision: A solid 0.94. So, when it says something's fake, it's usually right!
 * **[View Project →](./deepfake_detection)**
 
 ### Project 2: Detecting transactional Fraud
-* Design, train, and rigorously evaluate machine learning models capable of automatically identifying fraudulent activity
+* Design, train, and rigorously evaluate machine learning models capable of automatically identifying fraudulent activity.  Random Forrest
 * The model with 100 trees and max_depth=3 performed the best overall. It achieved the highest precision (0.1071) and F1-score (0.1912), while maintaining a very high recall (0.8878) and a competitive ROC-AUC (0.9375).
 * **[View Project →](./Detecting_Transaction_Fraud)**
