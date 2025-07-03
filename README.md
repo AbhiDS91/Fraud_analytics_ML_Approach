@@ -4,9 +4,7 @@
 
 Welcome! This portfolio showcases my hands-on data science and machine learning projects in the Fraud domain. These projects tackle real-world challenges, from spotting fraud to understanding complex data. I combine technical skills with practical insights to create solutions that make a real difference. I will add the projects as I'd complete them. 
 
-## Why This Portfolio?
 
-Data is everywhere, and making sense of it is crucial. This portfolio demonstrates how I use data science to solve important problems, focusing on practical applications and clear results.
 
 ## What I Bring to the Table
 
