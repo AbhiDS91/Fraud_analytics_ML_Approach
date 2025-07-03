@@ -2,7 +2,7 @@
 
 **By [Abhinav Sharma]**
 
-Welcome! This portfolio showcases my hands-on data science and machine learning projects in the Fraud domain. These projects tackle real-world challenges, from spotting fraud to understanding complex data. I combine technical skills with practical insights to create solutions that make a real difference. I will add the projects as I'd complete them. 
+Welcome! This portfolio showcases my hands-on machine learning experience in the Fraud domain. These projects tackle real-world challenges, from spotting fraud to understanding complex data. I combine technical skills with practical insights to create solutions that make a real difference. I will add the projects as I'd complete them. 
 
 
 
@@ -25,3 +25,5 @@ Welcome! This portfolio showcases my hands-on data science and machine learning 
 * Design, train, and rigorously evaluate machine learning models capable of automatically identifying fraudulent activity.  Random Forrest
 * The model with 100 trees and max_depth=3 performed the best overall. It achieved the highest precision (0.1071) and F1-score (0.1912), while maintaining a very high recall (0.8878) and a competitive ROC-AUC (0.9375).
 * **[View Project →](./Detecting_Transaction_Fraud)**
+
+#### Project 3: In Progress...
