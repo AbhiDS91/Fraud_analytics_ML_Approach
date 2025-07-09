@@ -2,7 +2,7 @@
 
 **By [Abhinav Sharma]**
 
-Welcome! This portfolio showcases my hands-on machine learning experience in the Fraud domain. These projects tackle real-world challenges, from spotting fraud to understanding complex data. I combine technical skills with practical insights to create solutions that make a real difference. I will add the projects as I'd complete them. 
+Here I try to demonstrate some of my machine learning experience in the Fraud domain. These projects tackle real world challenges, from spotting fraud to understanding complex data. I combine technical skills with practical insights to create solutions that make a real difference. I will add the projects as I'd complete them. 
 
 
 
