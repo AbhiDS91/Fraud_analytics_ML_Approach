@@ -1,6 +1,6 @@
 # FraudGuard: Advanced Transaction Anomaly Detection 🛡️
 
-Welcome to **FraudGuard**, a comprehensive project dedicated to unmasking fraudulent financial transactions using cutting-edge AI and Machine Learning. This repository showcases a robust, end-to-end pipeline engineered for practical, production-ready fraud detection in real-world scenarios.
+This comprehensive project is dedicated to unmasking fraudulent financial transactions using cutting-edge AI and Machine Learning. This repository showcases a robust, end-to-end pipeline engineered for practical, production-ready fraud detection in real-world scenarios.
 
 ## 🎯 Project Objective
 
