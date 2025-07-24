@@ -4,7 +4,7 @@
 
 ## What's This Project All About?
 
-Hey there! This project's all about building a super smart system using **deep learning** to sniff out those sneaky deepfakes. I'm trying to make sure you can tell what's real and what's not, with high accuracy.
+Okay so this project's all about building a super smart system using **deep learning** to sniff out those sneaky deepfakes. I'm trying to make sure you can tell what's real and what's not, with high accuracy.
 
 ---
 
