@@ -16,7 +16,7 @@ Here I try to demonstrate some of my machine learning experience in the Fraud do
 
 ## My Projects
 
-### Project 1: DeepFake Detection
+### Project 1: DeepFake Detection (This project dosent deal with financial data though it can be used in security systems in banks. I wanted to add a vision project on here)
 * Worked on two distinct machine learning strategies (CNNs) for detecting deepfakes (images)
 * Precision: A solid 0.94. So, when it says something's fake, it's usually right!
 * **[View Project →](./deepfake_detection)**
