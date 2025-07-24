@@ -4,13 +4,13 @@
 
 ## What's This Project All About?
 
-Okay so this project's all about building a super smart system using **deep learning** to sniff out those sneaky deepfakes. I'm trying to make sure you can tell what's real and what's not, with high accuracy.
+Okay so this project's all about building a super smart system using deep learning to find those sneaky deepfakes. I'm trying to make sure you can tell what's real and what's not, with high accuracy.
 
 ---
 
-## What I've Built 
+## What is built 
 
-I've put together a complete pipeline for spotting deepfakes right from the image itself. Here's a quick peek at what's inside:
+A complete pipeline for spotting deepfakes right from the image itself. Here's a quick peek at what's inside:
 
 * **Full Neural Network System:** It's a complete setup, from start to finish, for classifying images as real or fake.
 * **From Scratch to Finish:** From getting the data ready, to designing the **Convolutional Neural Network (CNN)**, training it, and then seeing how well it performs.
