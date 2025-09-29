@@ -12,10 +12,10 @@ This project highlights a full spectrum of skills and techniques crucial for bui
 
 ###  Python Data Science Ecosystem
 Leveraging the power of:
-* `pandas` for data manipulation
-* `numpy` for numerical operations
-* `matplotlib` & `seaborn` for insightful visualizations
-* `scikit-learn` for machine learning algorithms and utilities
+* "pandas" for data manipulation
+* "numpy" for numerical operations
+* "matplotlib" & "seaborn" for insightful visualizations
+* "scikit-learn" for machine learning algorithms and utilities
 
 ###  Data Engineering & Preparation
 * **Smart Missing Value Handling:** Strategically addressing gaps in the dataset.
@@ -39,7 +39,7 @@ Measuring effectiveness with fraud-specific metrics:
 * **Precision, Recall, F1-Score:** Essential for evaluating performance on imbalanced datasets.
 * **ROC-AUC:** Demonstrating strong discrimination capability, especially for imbalanced data.
 
-### 🔍 Model Interpretability & Insights
+###  Model Interpretability & Insights
 * **Feature Ranking:** Understanding which features drive the model's decisions.
 * **Trade-off Visualization (Precision vs. Recall):** Providing a clear picture for stakeholders to balance false alarms against missed fraud.
 
