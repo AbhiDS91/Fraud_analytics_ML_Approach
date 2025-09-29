@@ -52,10 +52,10 @@ The core of this project relies on the **Kaggle Credit Card Fraud Detection Data
 * **Size:** 284,807 transactions.
 * **Fraud Rarity:** Only 492 of these transactions are fraudulent (approximately 0.17%), making it a highly imbalanced dataset.
 * **Key Features:**
-    * `Time`: Transaction timestamp.
-    * `Amount`: Transaction value.
-    * `V1`–`V28`: Anonymized features (PCA components).
-    * `Class`: The binary label (0 for legitimate, 1 for fraud).
+    * Time: Transaction timestamp.
+    * Amount: Transaction value.
+    * V1–V28: Anonymized features (PCA components).
+    * Class: The binary label (0 for legitimate, 1 for fraud).
 
 ---
 
