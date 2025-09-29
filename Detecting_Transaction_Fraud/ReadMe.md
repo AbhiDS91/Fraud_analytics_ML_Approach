@@ -1,39 +1,39 @@
-# Advanced Transaction Anomaly Detection 🛡️
+# Advanced Transaction Anomaly Detection 
 
 This comprehensive project is dedicated to unmasking fraudulent financial transactions using cutting-edge AI and Machine Learning. This repository showcases a robust, end-to-end pipeline engineered for practical, production-ready fraud detection in real-world scenarios.
 
-## 🎯 Project Objective
+##  Project Objective
 
 Our mission is to **design, train, and rigorously evaluate machine learning models capable of automatically identifying fraudulent activity.** By doing so, we aim to significantly reduce the need for manual review processes and mitigate financial risk for institutions.
 
-## ✨ Core Features & Technologies
+##  Core Features & Technologies
 
 This project highlights a full spectrum of skills and techniques crucial for building effective fraud detection systems:
 
-### 🐍 Python Data Science Ecosystem
+###  Python Data Science Ecosystem
 Leveraging the power of:
 * `pandas` for data manipulation
 * `numpy` for numerical operations
 * `matplotlib` & `seaborn` for insightful visualizations
 * `scikit-learn` for machine learning algorithms and utilities
 
-### 🧹 Data Engineering & Preparation
+###  Data Engineering & Preparation
 * **Smart Missing Value Handling:** Strategically addressing gaps in the dataset.
 * **Feature Scaling & Encoding:** Transforming raw features for optimal model performance.
 * **Tackling Class Imbalance (Undersampling):** A critical step to handle the rarity of fraud cases and prevent model bias.
 
-### 📊 Feature Engineering & Selection
+###  Feature Engineering & Selection
 * **Correlation Analysis:** Understanding relationships between features.
 * **Outlier Management:** Identifying and treating extreme data points.
 * **Feature Importance Extraction:** Uncovering which attributes are most indicative of fraud.
 
-### 🧠 Machine Learning Algorithms
+###  Machine Learning Algorithms
 Implementing and refining powerful classification models:
 * **Random Forest Classifier:** A robust ensemble method known for its accuracy.
 * **Decision Tree:** Used as a baseline for comparison and interpretability.
 * **Hyperparameter Tuning:** Fine-tuning model parameters (`n_estimators`, `max_depth`) for peak performance.
 
-### 📈 Comprehensive Model Evaluation
+###  Comprehensive Model Evaluation
 Measuring effectiveness with fraud-specific metrics:
 * **Confusion Matrix:** A detailed view of true positives, true negatives, false positives, and false negatives.
 * **Precision, Recall, F1-Score:** Essential for evaluating performance on imbalanced datasets.
@@ -45,7 +45,7 @@ Measuring effectiveness with fraud-specific metrics:
 
 ---
 
-## 📦 The Dataset
+##  The Dataset
 
 The core of this project relies on the **Kaggle Credit Card Fraud Detection Dataset**.
 
@@ -59,7 +59,7 @@ The core of this project relies on the **Kaggle Credit Card Fraud Detection Data
 
 ---
 
-## ✅ Achieved Outcomes & Performance Metrics
+##  Achieved Outcomes & Performance Metrics
 
 This project not only builds a model but also validates its real-world impact:
 
@@ -76,7 +76,7 @@ This project not only builds a model but also validates its real-world impact:
 
 ---
 
-## 🚀 Explore the Notebook
+##  Explore the Notebook
 
 Dive into the details and follow the entire fraud detection journey by exploring the main notebook:
 
